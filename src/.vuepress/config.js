@@ -62,7 +62,7 @@ module.exports = {
     sidebar: {
       "/docs/": [
         {
-          title: "Ajout des produits et des variations",
+          title: "Produits et variations",
           path: "/docs/produits",
           collapsable: false,
           children: [
@@ -71,15 +71,15 @@ module.exports = {
           ],
         },
         {
-          title: "Ajout des termes taxonomies",
+          title: "Termes taxonomies",
           path: "/docs/utilisation/taxonomiesTerms",
-          collapsable: true,
+          collapsable: false,
         },
         
         {
-          title: "modification d'une page",
-          path: "/docs/utilisation/modification-page",
-          collapsable: true,
+          title: "Gestion des pages",
+          path: "/docs/utilisation/page",
+          collapsable: false,
         },
         {
           title: "modification du menu",
@@ -106,7 +106,7 @@ module.exports = {
         },
 
         {
-          title: "Blog",
+          title: "article ou blog",
           path: "/docs/utilisation/Blog",
           collapsable: true,
         },

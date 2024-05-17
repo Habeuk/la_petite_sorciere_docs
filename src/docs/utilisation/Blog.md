@@ -1,17 +1,26 @@
 # AJout des blogs
 
-pour ajouter des blogs à une section il suffit de se rendre sur la page à modifier et cibler la section contenant un champs reference à des blocs 
+Allez dans la section Contenu et cliquez sur Ajouter du contenu.
 
-<figure class="figure" >
-  <img src="../../assets/images/blog1.png" class="figure-img img-fluid rounded" alt="...">
-  <figcaption class="figure-caption"> on se rend dans taxonomies </figcaption>
+Sélectionnez Article parmi les types de contenu disponibles.
+<figure class="figure">
+  <img src="../../assets/images/article1.png" class="figure-img img-fluid rounded" alt="...">
+  <figcaption class="figure-caption">  </figcaption>
 </figure>
 
-vous pouvez soit modifier des blogs presents , soit en ajouter des blogs existant ou des nouveau ou encore retirer des blogs
+Remplissez les champs nécessaires :
+•Titre: Donnez un titre à votre article.
 
-<figure class="figure" >
-  <img src="../../assets/images/blog2.png" class="figure-img img-fluid rounded" alt="...">
-  <figcaption class="figure-caption"> on se rend dans taxonomies </figcaption>
+•  Corps : Ajoutez le contenu de votre article ici.
+
+•  Balises ou tags (optionnel) : Ajoutez des étiquettes pour organiser vos articles.
+
+Vous pouvez également définir des options de promotion, comme mettre l'article en avant sur la page d'accueil ou le coller en haut de la liste des articles.
+<figure class="figure">
+  <img src="../../assets/images/article2.png" class="figure-img img-fluid rounded" alt="...">
+  <figcaption class="figure-caption">  </figcaption>
 </figure>
+ 
+Une fois que vous avez terminé, cliquez sur Enregistrer pour publier votre article.
 
-ensuite enregistrer la section et la page par apres
+C'est aussi simple que cela ! Votre nouvel article sera maintenant visible sur votre site Drupal

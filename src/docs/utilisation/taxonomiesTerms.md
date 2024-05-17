@@ -6,28 +6,28 @@
 
  ## Ajout
 
-pour ajouter une taxonomie on se rend dans l'onglet "structure" puis "taxonomies" puis "ajouter un vocabulaire"
+Pour ajouter des taxonomies sur Drupal, voici les étapes à suivre :
+
+Accédez à la Taxonomie : Dans le menu d'administration, allez à Structure > Taxonomie
 
 <figure class="figure">
   <img src="../../assets/images/addtaxo.png" class="figure-img img-fluid rounded" alt="...">
   <figcaption class="figure-caption"> </figcaption>
 </figure>
 
+ ## Ajout des vocabulaires
+ 
+Ajoutez un Vocabulaire: Cliquez sur Ajouter un vocabulaire. Remplissez les champs nécessaires comme le nom du vocabulaire (par exemple, "Ingrédients") et une description si nécessaire.Ensuite, cliquez sur Enregistrer
+
 <figure class="figure">
   <img src="../../assets/images/termestaxo1.png" class="figure-img img-fluid rounded" alt="...">
   <figcaption class="figure-caption"> </figcaption>
 </figure>
-
-ensuite liste les termes (les termes corespondent auxéléments de la taxonomie exple pour une taxonomie nommée ville on aura les terme "paris" "londres" ...)
-
-<figure class="figure">
-  <img src="../../assets/images/addterms.png" class="figure-img img-fluid rounded" alt="...">
-  <figcaption class="figure-caption"> </figcaption>
-</figure>
-
-puis on remplis les champs de la taxonomies
+ 
+Ajoutez des Termes: Après avoir créé un vocabulaire, vous pouvez ajouter des termes à celui-ci. Cliquez surAjouter un termeet saisissez le nom du terme (par exemple, "Beurre").Cliquez sur Enregistrer pour chaque terme ajouté
 
 <figure class="figure">
-  <img src="../../assets/images/termsave.png" class="figure-img img-fluid rounded" alt="...">
+  <img src="../../assets/images/termestaxo1.png" class="figure-img img-fluid rounded" alt="...">
   <figcaption class="figure-caption"> </figcaption>
 </figure>
+ 
